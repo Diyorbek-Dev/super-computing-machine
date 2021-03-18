@@ -1,0 +1,11 @@
+.box{
+    padding-left: 480px;
+    margin-top: 300px;
+}
+button{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 90px;
+
+}
